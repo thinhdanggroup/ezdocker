@@ -1,0 +1,19 @@
+{
+  "name": "ezdocker",
+  "version": "1.0.0",
+  "description": "The ez way to create Dockerfile and docker-compose.yml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thinhda",
+  "license": "ISC",
+  "bin": {
+    "ezdocker": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^3.0.6"
+  }
+}
