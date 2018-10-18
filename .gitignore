@@ -2,4 +2,6 @@ node_modules/*
 .sonarlint
 .vscode
 
-Dockerfile
+Dockerfile*
+build.sh
+docker-compose.yml
